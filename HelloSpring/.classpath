@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_121"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-aop-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-aop-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-aop-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-aspects-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-aspects-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-aspects-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-beans-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-beans-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-beans-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-context-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-context-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-context-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-context-support-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-context-support-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-context-support-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-core-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-core-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-core-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-expression-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-expression-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-expression-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-instrument-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-instrument-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-instrument-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-instrument-tomcat-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-instrument-tomcat-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-instrument-tomcat-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-jdbc-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-jdbc-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-jdbc-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-jms-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-jms-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-jms-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-messaging-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-messaging-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-messaging-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-orm-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-orm-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-orm-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-oxm-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-oxm-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-oxm-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-test-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-test-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-test-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-tx-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-tx-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-tx-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-web-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-web-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-web-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-webmvc-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-webmvc-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-webmvc-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-webmvc-portlet-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-webmvc-portlet-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-webmvc-portlet-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-websocket-4.3.9.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-websocket-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/libs/spring-websocket-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/vallu/Documents/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
